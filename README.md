@@ -4,7 +4,7 @@
 
 git clone https://github.com/bit-warrior/ethcmd.git
 
-npm install
+/npm install
 
 node index.js
 
